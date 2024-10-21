@@ -36,10 +36,6 @@ void setup() {
   led.toggle();
   delay(1000); // 1秒待機
 }
-
-void loop() {
-  // ここにメインのコードを記述
-}
 ```
 
 ## 課題
