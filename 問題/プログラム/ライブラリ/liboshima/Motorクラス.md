@@ -9,7 +9,7 @@
 まず、`Motor`クラスを使用するために必要なヘッダファイルをインクルードします。
 
 ```cpp
-#include <Motor.h>
+#include <liboshima.h>
 ```
 
 ### インスタンスの作成

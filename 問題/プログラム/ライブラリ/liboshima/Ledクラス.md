@@ -9,7 +9,7 @@
 まず、`Led`クラスを使用するために必要なヘッダファイルをインクルードします。
 
 ```cpp
-#include <Led.h>
+#include <liboshima.h>
 ```
 
 ### インスタンスの作成

@@ -9,7 +9,7 @@
 まず、`Button`クラスを使用するために必要なヘッダファイルをインクルードします。
 
 ```cpp
-#include <Button.h>
+#include <liboshima.h>
 ```
 
 ### インスタンスの作成
