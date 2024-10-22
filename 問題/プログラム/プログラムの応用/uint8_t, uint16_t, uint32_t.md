@@ -71,8 +71,7 @@ int main() {
 #include <stdio.h>
 
 int main() {
-    uint8_t a = 255;
-    a = a + 1; // ここに記述
+    uint8_t a = // ここに記述
 
     printf("uint8_t a: %u\n", a);
 
